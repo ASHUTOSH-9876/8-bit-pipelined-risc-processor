@@ -1,5 +1,6 @@
 # 8-bit-pipelined-risc-processor
 Verilog HDL implementation of an 8-bit RISC processor with 3-stage pipelining (Fetch, Decode, Execute). Simulated with ModelSim and prepared for Vivado synthesis.
+EDA playground Simulation link: https://www.edaplayground.com/x/Xayw
 
 
 This project implements an 8-bit RISC processor in Verilog HDL with a 3-stage pipeline architecture (Fetch, Decode, Execute). The design is verified using ModelSim simulation and prepared for synthesis in Xilinx Vivado.
